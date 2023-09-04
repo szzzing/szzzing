@@ -1,4 +1,16 @@
-### Hi there 👋
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=soft&text=szzzing&animation=fadeIn&color=000&fontColor=F3B2BD&height=200)
+
+<br>
+
+### 👋 Hi there, This is szzzing!
+
+<br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szzzing&show_icons=true&bg_color=000&ring_color=F3B2BD&title_color=F3B2BD&text_color=fff&icon_color=F3B2BD)
+
+</div>
 
 <!--
 **szzzing/szzzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
