@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=fff"/>
+
 <br><br>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=szzzing&show_icons=true&bg_color=000&ring_color=F3B2BD&title_color=F3B2BD&text_color=fff&icon_color=F3B2BD)
