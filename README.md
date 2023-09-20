@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=szzzing&animation=fadeIn&color=000&fontColor=F3B2BD&height=200)
+![header](https://capsule-render.vercel.app/api?type=soft&text=szzzing&animation=fadeIn&color=000&fontColor=FFAFBE&height=200)
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=szzzing&show_icons=true&bg_color=000&ring_color=F3B2BD&title_color=F3B2BD&text_color=fff&icon_color=F3B2BD)
+![stats](https://github-readme-stats.vercel.app/api?username=szzzing&show_icons=true&bg_color=000&ring_color=FFAFBE&title_color=FFAFBE&text_color=fff&icon_color=FFAFBE)
 
 </div>
 
